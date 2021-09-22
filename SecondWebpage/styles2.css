@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+.title{
+
+    font-family:poppins;
+}body{
+
+    background-color: honeydew;
+}.bottom{
+
+    
+    bottom: 0;
+}
